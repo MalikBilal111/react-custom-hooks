@@ -26,6 +26,7 @@ Explore the following custom hooks:
 | -------------------------------------------------------- | -------------------------------------------------------------------------- | ----------------------------- 
 | [`useCheckMobileScreen`](./docs/useCheckMobileScreen.md) | Hook that detects whether the window is in a mobile or desktop screen size | [![][img-demo]](./hooks/useCheckMobileScreen.js)
 | [`useLocalStorage`](./docs/useLocalStorage.md) | Hook that detects whether the window is in a mobile or desktop screen size | [![][img-demo]](./hooks/useLocalStorage.js)
+| [`useWindowSize`](./docs/useWindowSize.md) | Hook that detects whether the window is in a mobile or desktop screen size | [![][img-demo]](./hooks/useWindowSize.js)
 
 ## Contributing
 
