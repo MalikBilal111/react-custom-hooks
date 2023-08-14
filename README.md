@@ -21,9 +21,9 @@
 
 Explore the following custom hooks:
 
-| Hook Name                                                | Hook Description                                                           
-| -------------------------------------------------------- | -------------------------------------------------------------------------- 
-| [`useCheckMobileScreen`](./docs/useCheckMobileScreen.md) | Hook that detects whether the window is in a mobile or desktop screen size 
+| Hook Name                                                | Hook Description                                                           | Code
+| -------------------------------------------------------- | -------------------------------------------------------------------------- | ----------------------------- 
+| [`useCheckMobileScreen`](./docs/useCheckMobileScreen.md) | Hook that detects whether the window is in a mobile or desktop screen size | [![][img-demo]](./hooks/useCheckMobileScreen.js)
 
 ## Contributing
 
