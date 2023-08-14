@@ -1,7 +1,7 @@
 <div align="center">
   <h1>
     <br/>
-    👍 Custom React Hooks Repository
+     Custom React Hooks Repository 👍
     <br />
   </h1>
   <sup>
