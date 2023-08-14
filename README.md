@@ -10,6 +10,7 @@
   <br />
 </div>
 
+[img-demo]: https://img.shields.io/badge/demo-%20%20%20%F0%9F%9A%80-green.svg
 
 ## Table of Contents
 
