@@ -21,8 +21,8 @@
 
 Explore the following custom hooks:
 
-| Hook Name                                      | Hook Description                                                           
-| ----------------------------------------       | -------------------------------------------------------------------------- 
+| Hook Name                                                | Hook Description                                                           
+| -------------------------------------------------------- | -------------------------------------------------------------------------- 
 | [`useCheckMobileScreen`](./docs/useCheckMobileScreen.md) | Hook that detects whether the window is in a mobile or desktop screen size 
 
 ## Contributing

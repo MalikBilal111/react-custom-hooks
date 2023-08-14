@@ -4,6 +4,8 @@ Hook that detects whether the window is in a mobile or desktop screen size
 
 ## Usage
 
+[`See Code `](./hooks/useCheckMobileScreen.js)
+
 ```jsx
 import useCheckMobileScreen from "hooks";
 const Demo = () => {
@@ -32,7 +34,7 @@ const Demo = () => {
 ## Reference
 
 ```js
-    const { isMobile } = useCheckMobileScreen();
+const { isMobile } = useCheckMobileScreen();
 ```
 
 - `isMobile` &mdash; isMobile will detects whether the window is in a mobile or desktop screen size
